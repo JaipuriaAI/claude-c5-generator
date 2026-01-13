@@ -14,7 +14,7 @@ Get up and running with C5 Documentation Generator in 5 minutes.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/claude-c5-generator
+git clone https://github.com/JaipuriaAI/claude-c5-generator
 cd claude-c5-generator
 
 # Run installation script
@@ -31,7 +31,7 @@ cd /path/to/your-project
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/claude-c5-generator
+git clone https://github.com/JaipuriaAI/claude-c5-generator
 cd claude-c5-generator
 
 # Copy agent
@@ -151,7 +151,7 @@ If your data files are elsewhere, specify custom paths.
 
 - **README**: [README.md](README.md)
 - **Contributing**: [CONTRIBUTING.md](CONTRIBUTING.md)
-- **Issues**: https://github.com/yourusername/claude-c5-generator/issues
+- **Issues**: https://github.com/JaipuriaAI/claude-c5-generator/issues
 
 ## Example Output
 

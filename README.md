@@ -29,7 +29,7 @@ When developers "vibe code" with Claude Code:
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/claude-c5-generator
+git clone https://github.com/JaipuriaAI/claude-c5-generator
 cd claude-c5-generator
 
 # Copy to your project's .claude/ directory
@@ -343,9 +343,8 @@ Use freely in any project, commercial or non-commercial.
 
 ## Support
 
-- **Issues**: https://github.com/yourusername/claude-c5-generator/issues
-- **Discussions**: https://github.com/yourusername/claude-c5-generator/discussions
-- **Twitter/X**: [@yourusername](https://twitter.com/yourusername)
+- **Issues**: https://github.com/JaipuriaAI/claude-c5-generator/issues
+- **Discussions**: https://github.com/JaipuriaAI/claude-c5-generator/discussions
 
 ---
 
@@ -366,7 +365,7 @@ Special thanks to:
 
 If you find this tool useful, please consider starring the repository!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/claude-c5-generator&type=Date)](https://star-history.com/#yourusername/claude-c5-generator&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=JaipuriaAI/claude-c5-generator&type=Date)](https://star-history.com/#JaipuriaAI/claude-c5-generator&Date)
 
 ---
 
